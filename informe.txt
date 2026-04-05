@@ -1,4 +1,4 @@
-TRANSACCIONES SOSPECHOSAS (4)
+TRANSACCIONES SOSPECHOSAS (10)
 
 --------------------------------------------------------
   TRANSACCIÓN SOSPECHOSA
@@ -48,13 +48,88 @@ TRANSACCIONES SOSPECHOSAS (4)
   Score de riesgo:  1
   Nivel de riesgo:  Riesgo medio
 
+--------------------------------------------------------
+  TRANSACCIÓN SOSPECHOSA
+--------------------------------------------------------
+  ID:               7
+  Fecha y hora:     2026-04-05  10:00
+  Importe:          400.00 €
+  Descripción:      Anticipo 1
+  Grupo relacionado:  FRAC-2026-04-05  (misma fecha, patrón conjunto)
+  Alertas detectadas:
+      • Grupo de transacciones sospechosas (posible fraccionamiento)
+  Score de riesgo:  3
+  Nivel de riesgo:  Riesgo alto
+
+--------------------------------------------------------
+  TRANSACCIÓN SOSPECHOSA
+--------------------------------------------------------
+  ID:               8
+  Fecha y hora:     2026-04-05  11:30
+  Importe:          350.00 €
+  Descripción:      Anticipo 2
+  Grupo relacionado:  FRAC-2026-04-05  (misma fecha, patrón conjunto)
+  Alertas detectadas:
+      • Grupo de transacciones sospechosas (posible fraccionamiento)
+  Score de riesgo:  3
+  Nivel de riesgo:  Riesgo alto
+
+--------------------------------------------------------
+  TRANSACCIÓN SOSPECHOSA
+--------------------------------------------------------
+  ID:               9
+  Fecha y hora:     2026-04-05  14:00
+  Importe:          250.00 €
+  Descripción:      Anticipo 3
+  Grupo relacionado:  FRAC-2026-04-05  (misma fecha, patrón conjunto)
+  Alertas detectadas:
+      • Grupo de transacciones sospechosas (posible fraccionamiento)
+  Score de riesgo:  3
+  Nivel de riesgo:  Riesgo alto
+
+--------------------------------------------------------
+  TRANSACCIÓN SOSPECHOSA
+--------------------------------------------------------
+  ID:               10
+  Fecha y hora:     2026-04-10  11:00
+  Importe:          800.00 €
+  Descripción:      Cuota gimnasio mensual
+  Alertas detectadas:
+      • Patrón repetitivo de transacciones
+  Score de riesgo:  2
+  Nivel de riesgo:  Riesgo medio
+
+--------------------------------------------------------
+  TRANSACCIÓN SOSPECHOSA
+--------------------------------------------------------
+  ID:               11
+  Fecha y hora:     2026-04-18  11:00
+  Importe:          780.00 €
+  Descripción:      Cuota gimnasio abril
+  Alertas detectadas:
+      • Patrón repetitivo de transacciones
+  Score de riesgo:  2
+  Nivel de riesgo:  Riesgo medio
+
+--------------------------------------------------------
+  TRANSACCIÓN SOSPECHOSA
+--------------------------------------------------------
+  ID:               12
+  Fecha y hora:     2026-04-25  11:05
+  Importe:          820.00 €
+  Descripción:      Cuota gimnasio
+  Alertas detectadas:
+      • Patrón repetitivo de transacciones
+  Score de riesgo:  2
+  Nivel de riesgo:  Riesgo medio
+
 ============================================================
 RESUMEN DEL ANÁLISIS
 ============================================================
-  Transacciones analizadas:     6
+  Transacciones analizadas:     12
   · Riesgo bajo (0 puntos):     2
-  · Riesgo medio (1-2 puntos):  4
-  · Riesgo alto (3+ puntos):    0
+  · Riesgo medio (1-2 puntos):  7
+  · Riesgo alto (3+ puntos):    3
 
-  Total de incidencias (reglas disparadas): 4
+  Total de incidencias (reglas disparadas): 10
 

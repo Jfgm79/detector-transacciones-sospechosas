@@ -5,3 +5,9 @@ id,fecha,hora,importe,destinatario,concepto
 4,2026-04-02,07:30,45.00,Cafetería,Desayuno temprano
 5,2026-04-03,14:00,1200.00,Alquiler,Alquiler abril
 6,2026-04-03,22:05,50.00,App móvil,Suscripción
+7,2026-04-05,10:00,400.00,Tienda A,Anticipo 1
+8,2026-04-05,11:30,350.00,Tienda B,Anticipo 2
+9,2026-04-05,14:00,250.00,Tienda C,Anticipo 3
+10,2026-04-10,11:00,800.00,Gym SA,Cuota gimnasio mensual
+11,2026-04-18,11:00,780.00,Gym SA,Cuota gimnasio abril
+12,2026-04-25,11:05,820.00,Gym SA,Cuota gimnasio
