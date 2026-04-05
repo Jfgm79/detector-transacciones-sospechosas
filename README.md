@@ -1,24 +1,21 @@
 # Detector de transacciones sospechosas
 
-Herramienta en Python para analizar transacciones financieras ficticias y detectar patrones potencialmente anómalos.
+Herramienta básica para detectar patrones sospechosos en transacciones financieras mediante reglas simples.
 
 ## Funcionalidades
 
-- Detección de importes elevados (> 3000)
-- Detección de transacciones fuera de horario (08:00 - 22:00)
-- Resumen final con número total de alertas
+- Detección de transacciones con importe elevado
+- Detección de operaciones fuera de horario permitido
+- Sistema de puntuación de riesgo
+- Clasificación de riesgo (bajo, medio, alto)
+- Generación de informe automático (`informe.txt`)
 
-## Tecnologías utilizadas
+## Reglas de detección
 
-- Python
-- CSV (datos estructurados)
-- Biblioteca estándar
+- Importe mayor a 3000 €
+- Transacciones fuera del horario 08:00 - 22:00
 
-## Objetivo del proyecto
-
-Este proyecto tiene una finalidad educativa y de análisis defensivo. Simula un sistema básico de detección de patrones sospechosos en transacciones financieras.
-
-## Cómo ejecutar
+## Ejecución
 
 ```bash
 python main.py

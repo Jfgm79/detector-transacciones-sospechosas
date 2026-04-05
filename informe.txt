@@ -1,0 +1,60 @@
+TRANSACCIONES SOSPECHOSAS (4)
+
+--------------------------------------------------------
+  TRANSACCIÓN SOSPECHOSA
+--------------------------------------------------------
+  ID:               2
+  Fecha y hora:     2026-04-01  23:15
+  Importe:          200.00 €
+  Descripción:      Pago tarde
+  Alertas detectadas:
+      • Fuera de horario permitido (08:00 a 22:00)
+  Score de riesgo:  1
+  Nivel de riesgo:  Riesgo medio
+
+--------------------------------------------------------
+  TRANSACCIÓN SOSPECHOSA
+--------------------------------------------------------
+  ID:               3
+  Fecha y hora:     2026-04-02  09:00
+  Importe:          5000.00 €
+  Descripción:      Factura grande
+  Alertas detectadas:
+      • Importe elevado (mayor a 3000)
+  Score de riesgo:  2
+  Nivel de riesgo:  Riesgo medio
+
+--------------------------------------------------------
+  TRANSACCIÓN SOSPECHOSA
+--------------------------------------------------------
+  ID:               4
+  Fecha y hora:     2026-04-02  07:30
+  Importe:          45.00 €
+  Descripción:      Desayuno temprano
+  Alertas detectadas:
+      • Fuera de horario permitido (08:00 a 22:00)
+  Score de riesgo:  1
+  Nivel de riesgo:  Riesgo medio
+
+--------------------------------------------------------
+  TRANSACCIÓN SOSPECHOSA
+--------------------------------------------------------
+  ID:               6
+  Fecha y hora:     2026-04-03  22:05
+  Importe:          50.00 €
+  Descripción:      Suscripción
+  Alertas detectadas:
+      • Fuera de horario permitido (08:00 a 22:00)
+  Score de riesgo:  1
+  Nivel de riesgo:  Riesgo medio
+
+============================================================
+RESUMEN DEL ANÁLISIS
+============================================================
+  Transacciones analizadas:     6
+  · Riesgo bajo (0 puntos):     2
+  · Riesgo medio (1-2 puntos):  4
+  · Riesgo alto (3+ puntos):    0
+
+  Total de incidencias (reglas disparadas): 4
+
