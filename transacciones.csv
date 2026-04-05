@@ -1,0 +1,7 @@
+id,fecha,hora,importe,destinatario,concepto
+1,2026-04-01,10:30,150.00,Tienda Local,Compra
+2,2026-04-01,23:15,200.00,Servicio nocturno,Pago tarde
+3,2026-04-02,09:00,5000.00,Proveedor XYZ,Factura grande
+4,2026-04-02,07:30,45.00,Cafetería,Desayuno temprano
+5,2026-04-03,14:00,1200.00,Alquiler,Alquiler abril
+6,2026-04-03,22:05,50.00,App móvil,Suscripción
