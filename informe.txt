@@ -94,6 +94,7 @@ TRANSACCIONES SOSPECHOSAS (10)
   Fecha y hora:     2026-04-10  11:00
   Importe:          800.00 €
   Descripción:      Cuota gimnasio mensual
+  Patrón temporal:    PATRON-001  (misma conducta en días distintos)
   Alertas detectadas:
       • Patrón repetitivo de transacciones
   Score de riesgo:  2
@@ -106,6 +107,7 @@ TRANSACCIONES SOSPECHOSAS (10)
   Fecha y hora:     2026-04-18  11:00
   Importe:          780.00 €
   Descripción:      Cuota gimnasio abril
+  Patrón temporal:    PATRON-001  (misma conducta en días distintos)
   Alertas detectadas:
       • Patrón repetitivo de transacciones
   Score de riesgo:  2
@@ -118,6 +120,7 @@ TRANSACCIONES SOSPECHOSAS (10)
   Fecha y hora:     2026-04-25  11:05
   Importe:          820.00 €
   Descripción:      Cuota gimnasio
+  Patrón temporal:    PATRON-001  (misma conducta en días distintos)
   Alertas detectadas:
       • Patrón repetitivo de transacciones
   Score de riesgo:  2
